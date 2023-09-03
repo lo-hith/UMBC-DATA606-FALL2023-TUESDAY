@@ -1,6 +1,7 @@
 # UMBC-DATA606-FALL2023-TUESDAY
 
 # Lohith Reddy Meruva
+<img src="headshot.jpg" alt="Your Headshot" width="100" height="100">
 ![Your Headshot](https://github.com/lo-hith/UMBC-DATA606-FALL2023-TUESDAY/blob/main/headshot.jpg.jpeg)
 
 Your Contact Information: Email:kt97617@umbc.edu | Phone:+1-470-967-9227| LinkedIn Profile:https://www.linkedin.com/in/lohithreddy007/ |
