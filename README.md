@@ -73,4 +73,4 @@ Algorithms(KNN, Naive Bayes, Logistic Regression, Decision Tree
 
 
 ## Interests
-Cricket,Bdminton
+Cricket,Badminton
