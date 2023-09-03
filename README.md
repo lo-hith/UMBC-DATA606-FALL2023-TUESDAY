@@ -1,5 +1,5 @@
 # UMBC-DATA606-FALL2023-TUESDAY
-<img src="headshot.jpg" alt="Your Headshot" width="100" height="100">
+
 # Lohith Reddy Meruva
 ![Your Headshot](https://github.com/lo-hith/UMBC-DATA606-FALL2023-TUESDAY/blob/main/headshot.jpg.jpeg)
 
